@@ -1,0 +1,14 @@
+ul {background-color: white;}
+body {
+  background-image: url(/Images/Machu_Picchu\,_Peru.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Fuzzy Bubbles", cursive;
+  text-align: center;
+  font-size: x-large;
+  color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;}
+footer{background-color: white;
+margin-top: auto;}
